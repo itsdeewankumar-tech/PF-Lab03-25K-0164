@@ -24,7 +24,7 @@ About Myself and programming interest
 ---
 
 ## 📫 Connect with Me
-- GitHub: (https://github.com/dashboard)
+- GitHub: ((https://github.com/itsdeewankumar-tech))
 - LinkedIn: www.linkedin.com/in/deewan-kumar-25b53b307
   
 ---
