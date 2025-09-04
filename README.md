@@ -40,7 +40,7 @@ About Myself and programming interest
   - Matriculation
 
   One Bold
-  **Address: Saddar Karachi, Pakistan**
+  **Address: Saddar Karachi, Pakistan**<br/>
   _My Contact number: 0123-5678912_
   
   
