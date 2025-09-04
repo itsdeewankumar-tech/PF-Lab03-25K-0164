@@ -26,3 +26,21 @@ About Myself and programming interest
 ## 📫 Connect with Me
 - GitHub: (https://github.com/dashboard)
 - LinkedIn: www.linkedin.com/in/deewan-kumar-25b53b307
+
+  ### My Skills
+  Ordered list
+  1. Machine learning
+  2. Web Development
+  3. Deep Learning
+ 
+  ## My Education
+  Unordered list
+  - BS AI
+  - Intermediate
+  - Matriculation
+
+  One Bold
+  **Address: Saddar Karachi, Pakistan**
+  _My Contact number: 0123-5678912_
+  
+  
